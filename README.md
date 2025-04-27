@@ -29,16 +29,20 @@
 </p>
 
 ---
+## 🚀 Frequently Used Languages:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
 ## 📈 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KPhanindraReddy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KPhanindraReddy&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KPhanindraReddy&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPhanindraReddy&layout=compact&theme=radical" width="50%" />
-</p>
+
 
 ---
 
@@ -64,8 +68,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KPhanindraReddy&label=Profile%20views&color=0e75b6&style=flat" alt="KPhanindraReddy" />
-</p>
+
 
 ---
