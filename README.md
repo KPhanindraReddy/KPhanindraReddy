@@ -36,16 +36,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-
-## 📈 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KPhanindraReddy&show_icons=true&count_private=true&include_all_commits=true&theme=radical" width="60%" />
-</p>
-
-
-
----
-
 ## 🏆 Certifications:
 - **AWS Training and Certification** (Cloud Essentials)
 - **Programming for Everybody (Python Basics)** – University of Michigan (Coursera)
