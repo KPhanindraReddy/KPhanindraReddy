@@ -36,7 +36,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
+
 ## 🏆 Certifications:
+
 - **AWS Training and Certification** (Cloud Essentials)
 - **Programming for Everybody (Python Basics)** – University of Michigan (Coursera)
 - **Web Development** – EDU Skills
