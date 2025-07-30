@@ -43,7 +43,7 @@
 - **Programming for Everybody (Python Basics)** – University of Michigan (Coursera)
 - **Web Development** – EDU Skills
 
----
+--- 
 
 ## 📚 Major Projects:
 - 🎯 **Student Performance Prediction** – Predict student outcomes based on multiple regression analysis.
