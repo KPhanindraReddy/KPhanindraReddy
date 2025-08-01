@@ -42,7 +42,7 @@
 - **AWS Training and Certification** (Cloud Essentials)
 - **Programming for Everybody (Python Basics)** – University of Michigan (Coursera)
 - **Web Development** – EDU Skills
-
+ 
 --- 
 
 ## 📚 Major Projects:
