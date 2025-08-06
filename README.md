@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K. Phanindra Reddy</h1>
-<h3 align="center">Aspiring Software Developer |CSE Student at GITAM University</h3> 
+<h3 align="center">Aspiring Software Developer |CSE Student
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology;Eager+to+Learn+and+Grow!&center=true&width=500&height=45">
