@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology;Eager+to+Learn+and+Grow!&center=true&width=500&height=45">
 </p>
-
+ 
 --- 
    
 ## 🌟 About Me:  
@@ -52,11 +52,5 @@
 
 ---
 
-## 🔗 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/kamanaphanindrareddy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kamanaphanindrareddy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
----
 
