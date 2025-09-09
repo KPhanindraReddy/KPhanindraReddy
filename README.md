@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Technology;Eager+to+Learn+and+Grow!&center=true&width=500&height=45">
 </p>
  
---- 
+---  
    
 ## 🌟 About Me:  
 - 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at GITAM University.
