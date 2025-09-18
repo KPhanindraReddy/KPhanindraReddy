@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K. Phanindra Reddy</h1>
+<h1 align="center">Hi, I'm K. Phanindra Reddy</h1>
 <h3 align="center">Aspiring Software Developer |CSE Student
 
 <p align="center">
@@ -7,17 +7,17 @@
  
 ---   
    
-## 🌟 About Me:   
-- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at GITAM University.
-- 💻 I love working on **Python, Java, SQL,HTML,Java Script and C projects**.
-- ☁️ I'm certified in **AWS Cloud Essentials** and **Web Development**.
-- 🚀 Recently completed internships with **Goldman Sachs (Software Engineering)** and **Google (Android Development)**.
-- 📚 Constantly learning about new technologies, especially in **AI, Cloud, and Web Development**.
-- 🧠 Fun fact: I love **gym workouts 🏋️**, **stock market analysis 📈**, and **Learning from past commits🚀**.  
+##  About Me:   
+-  I'm currently pursuing **B.Tech in Computer Science and Engineering** at GITAM University.
+-  I love working on **Python, Java, SQL,HTML,Java Script and C projects**.
+-  I'm certified in **AWS Cloud Essentials** and **Web Development**.
+-  Recently completed internships with **Goldman Sachs (Software Engineering)** and **Google (Android Development)**.
+-  Constantly learning about new technologies, especially in **AI, Cloud, and Web Development**.
+-  Fun fact: I love **gym workouts **, **stock market analysis **, and **Learning from past commits**.  
  
 ---
  
-## 🛠️ Languages and Tools: 
+##  Languages and Tools: 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -29,7 +29,7 @@
 </p>
 
 ---
-## 🚀 Frequently Used Languages:
+##  Frequently Used Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-## 🏆 Certifications:
+##  Certifications:
 
 - **AWS Training and Certification** (Cloud Essentials) 
 - **Programming for Everybody (Python Basics)** – University of Michigan (Coursera)
@@ -45,10 +45,10 @@
  
 --- 
 
-## 📚 Major Projects:
-- 🎯 **Student Performance Prediction** – Predict student outcomes based on multiple regression analysis.
-- 🛜 **Client-Server File Transfer (Java)** – Upload and receive files over the network.
-- 🚆 **Railway Reservation System** – Full ticket booking system simulation.
+##  Major Projects:
+-  **Student Performance Prediction** – Predict student outcomes based on multiple regression analysis.
+-  **Client-Server File Transfer (Java)** – Upload and receive files over the network.
+-  **Railway Reservation System** – Full ticket booking system simulation.
 
 --- 
 
