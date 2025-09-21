@@ -11,7 +11,7 @@
 -  I'm currently pursuing **B.Tech in Computer Science and Engineering** at GITAM University.
 -  I love working on **Python, Java, SQL,HTML,Java Script and C projects**.
 -  I'm certified in **AWS Cloud Essentials** and **Web Development**.
--  Recently completed internships with **Goldman Sachs (Software Engineering)** and **Google (Android Development)**. 
+-  Recently completed internships with **Goldman Sachs (Software Engineering)** and **Google (Android Development)**.  
 -  Constantly learning about new technologies, especially in **AI, Cloud, and Web Development**.
 -  Fun fact: I love **gym workouts **, **stock market analysis **, and **Learning from past commits**.  
  
