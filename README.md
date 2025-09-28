@@ -7,7 +7,7 @@
   
 ---     
    
-##  About Me:   
+##  About Me:    
 -  I'm currently pursuing **B.Tech in Computer Science and Engineering** at GITAM University.
 -  I love working on **Python, Java, SQL,HTML,Java Script and C projects**.
 -  I'm certified in **AWS Cloud Essentials** and **Web Development**.
