@@ -16,7 +16,7 @@
 -  Fun fact: I love **gym workouts**, **stock market analysis**, and **Learning from past commits**.
   
 --- 
- 
+  
 ##  Languages and Tools: 
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
