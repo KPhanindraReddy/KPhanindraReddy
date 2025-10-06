@@ -6,7 +6,7 @@
 </p>
   
 ---     
-     
+      
 ##  About Me:    
 -  I'm currently pursuing **B.Tech in Computer Science and Engineering** at GITAM University.
 -  I love working on **Python, Java, SQL,HTML,Java Script and C projects**.
