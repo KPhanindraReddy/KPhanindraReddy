@@ -15,7 +15,7 @@
 -  Constantly learning about new technologies, especially in **AI, Cloud, and Web Development**.
 -  Fun fact: I love **gym workouts**, **stock market analysis**, and **Learning from past commits**.
    
---- 
+---
    
 ##  Languages and Tools: 
 <p align="left"> 
