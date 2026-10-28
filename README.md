@@ -8,12 +8,12 @@
 ---      
       
 ##  About Me:    
--  I'm currently pursuing **B.Tech in Computer Science and Engineering** at GITAM University.
--  I love working on **Python, Java, SQL,HTML,Java Script and C projects**.
+-   **B.Tech in Computer Science and Engineering** 
+-  working on **Python, Java, SQL,HTML,Java Script and C projects**.
 -  I'm certified in **AWS Cloud Essentials** and **Web Development**.
 -  Recently completed internships with **Goldman Sachs (Software Engineering)** and **Google (Android Development)**.   
 -  Constantly learning about new technologies, especially in **AI, Cloud, and Web Development**.
--  Fun fact: I love **gym workouts**, **stock market analysis**, and **Learning from past commits**.
+
    
 ---
    
@@ -40,14 +40,14 @@
 
 - **AWS Training and Certification** (Cloud Essentials) 
 - **Programming for Everybody (Python Basics)** – University of Michigan (Coursera)
-- **Web Development** – EDU Skills 
+
  
 --- 
 
 ##  Major Projects:
 -  **Student Performance Prediction** – Predict student outcomes based on multiple regression analysis.
 -  **Client-Server File Transfer (Java)** – Upload and receive files over the network.
--  **Railway Reservation System** – Full ticket booking system simulation.
+
 
 ---  
  
