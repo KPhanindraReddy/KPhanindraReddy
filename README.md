@@ -6,12 +6,7 @@
       
 ##  About Me:    
 -   **B.Tech in Computer Science and Engineering** 
--  working on **Python, Java, SQL,HTML,Java Script and C projects**.
--  I'm certified in **AWS Cloud Essentials** and **Web Development**.
--  Recently completed internships with **Goldman Sachs (Software Engineering)** and **Google (Android Development)**.   
--  Constantly learning about new technologies, especially in **AI, Cloud, and Web Development**.
-
-   
+-  working on **Python, Java, SQL,HTML,Java Script and C projects**..
 ---
    
 ##  Languages and Tools: 
@@ -25,10 +20,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-##  Certifications:
-
-- **AWS Training and Certification** (Cloud Essentials) 
-- **Programming for Everybody (Python Basics)** – University of Michigan (Coursera)
  
  
 ---
