@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm K. Phanindra Reddy</h1>
 <h3 align="center"> Software Developer
 
-   
+    
 ---      
       
 ##  About Me:    
